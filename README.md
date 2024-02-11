@@ -3,7 +3,8 @@
 
 Thank you for visiting my GitHub repository! Here you'll find various projects and code snippets I've been working on. Feel free to explore, fork, and contribute to any of the projects you find interesting.
 
-About Me
+## About Me
+
 I am a passionate Data Analyst interested in Data Analysis, web development, machine learning, etc. My passion extends to using the high volume of data generated around the world to solve business problems. I love experimenting with new technologies and learning from the community. 
 
 
