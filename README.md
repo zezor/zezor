@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### Projects
 Here are some of the projects you'll find in this repository:
 
+- FIFA-World-Cup-Analysis Using Python - Jupyter NoteBook
 - [Power BI Logistics Dashboard] - Brief description of the project.
 - [Power BI Sales Dashboard - 1] - Brief description of the project.
 - [Power BI Sales Dashboard - 2] - Brief description of the project.
